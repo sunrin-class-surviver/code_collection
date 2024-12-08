@@ -1,0 +1,5 @@
+ public void ResetTimer()
+    {
+        remainingTime = 40f;
+        Debug.Log("Timer has been reset to 40 seconds.");
+    }
